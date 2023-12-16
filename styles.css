@@ -1,0 +1,33 @@
+#moon{
+display: none;
+}
+html{
+
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.gamediv{
+    border: 1px solid black;
+    width:50%;
+
+    font-size: 1.5vw;
+    border-radius: 10px;
+    text-align: center;
+    margin: 200px auto;    
+    background-color: rgb(167, 145, 145);
+    padding-bottom: 50px;
+}
+.gameText{
+   
+}
+.choiceBtn{
+    width: 150px;
+    height: 5vh; 
+  border-color: brown;     
+  border-radius: 10px;
+  background-color:rgb(255, 255, 255)
+}
+.container{
+    width: 40px;
+    margin: 10px auto;
+}
